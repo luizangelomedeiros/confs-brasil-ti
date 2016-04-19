@@ -1,6 +1,8 @@
 # Lista de Conferências/Eventos de TI no Brasil:
 
-Existem dezenas de eventos e conferências de tecnologia no Brasil. Com o objetivo de auxiliar a divulgação dos mesmos, esta lista está disponível e precisamos de seu apoio para completá-la.
+Existem dezenas de eventos e conferências de tecnologia no Brasil. 
+Com o objetivo de auxiliar a divulgação dos mesmos, esta lista está disponível e precisamos de seu apoio para completá-la.
+
 Caso você saiba de algum evento em sua região, nos ajude contribuindo com este projeto.
 
 Nome | Website | Local | Data | Valor | Assunto
